@@ -7,6 +7,7 @@
 | 1     | Hello World               | Low        | ![Progress Bar](https://geps.dev/progress/100)  | January 2023  |
 | 2     | guidos-gorgeous-lasagna   | Hard        | ![Progress Bar](https://geps.dev/progress/100)  | January 2023  |
 | 3   | currency-exchange  | Low        | ![Progress Bar](https://geps.dev/progress/100)  | January 2023  |
+| 4   | ghost-gobble-arcade-game | Low        | ![Progress Bar](https://geps.dev/progress/100)  | January 2023  |
 
 
 ## Public Profile Link
