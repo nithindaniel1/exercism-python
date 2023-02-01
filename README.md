@@ -13,7 +13,7 @@
 
 ## Public Profile Link
 
-Exercism: [Nithin Daniel]()
+Exercism: [Nithin Daniel](https://exercism.org/profiles/nithindaniel)
 
 P.S Exercises which are at 75%, code structure must be improved. 
 Will be working out on them on upcoming days!
